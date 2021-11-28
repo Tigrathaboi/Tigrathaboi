@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tigrathaboi
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning React/React-Native
+- 📫 How to reach me: tg: @wi9ster1a
